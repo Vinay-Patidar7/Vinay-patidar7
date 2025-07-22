@@ -50,7 +50,7 @@ Here are some of the technologies I've been working with recently:
     <div align="center">
         <p>An AI-powered Chrome extension that detects if an image is AI-generated in real-time, built with a Vision Transformer (ViT) model.</p>
         <p>
-            <a href="https://github.com/vinay-patidar7/YOUR_REPO_NAME" target="_blank">
+            <a href="https://github.com/Image-Authenticator-Extension?view_as=public" target="_blank">
                 <img src="https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github" alt="View Code"/>
             </a>
         </p>
@@ -62,11 +62,11 @@ Here are some of the technologies I've been working with recently:
     <div align="center">
         <p>A full-stack professional networking platform with user profiles, dynamic feeds, and advanced fuzzy search capabilities.</p>
         <p>
-            <a href="https://github.com/vinay-patidar7/YOUR_REPO_NAME_2" target="_blank">
+            <a href="https://github.com/TheOG-s/Avengers-Assemble-Network" target="_blank">
                 <img src="https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github" alt="View Code"/>
             </a>
         </p>
-        <p>#ReactJS #NodeJS #ExpressJS #MongoDB #JWT</p>
+        <p>#ReactJS #NodeJS #ExpressJS #MongoDB #JWT #Multer #Cloudinary</p>
     </div>
 </td>
 </tr>
