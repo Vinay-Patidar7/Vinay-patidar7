@@ -3,7 +3,7 @@
 I'm a passionate Master of Computer Applications student at MNNIT Allahabad with a strong interest in Web Development and Machine Learning. I enjoy building impactful applications that solve real-world problems and continuously learning new technologies.
 
 - 🔭 I’m currently working on exciting projects involving both front-end and back-end development, as well as AI/ML model integration.
-- 🌱 I’m currently learning more about system design and advanced AI concepts.
+- 🌱 I’m currently learning more about advanced AI concepts.
 - 📫 How to reach me: [vinay2patidar@gmail.com](mailto:vinay2patidar@gmail.com)
 
 ---
